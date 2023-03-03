@@ -1,2 +1,2 @@
 # package-vision
-Learning about machine vision and recognition
+Learning about machine vision and recognition wow!

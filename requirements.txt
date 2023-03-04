@@ -1,8 +1,9 @@
 attrs==22.2.0
 coverage==7.2.1
 iniconfig==2.0.0
-# Editable Git install with no remote (package-vision==0.0.post1.dev1+gd3fdc43)
--e /Users/jenniferzouak/repos/package-vision
+numpy==1.24.2
+opencv-python==4.7.0.72
+-e git+ssh://git@github.com/jenniferzouak/package-vision.git@9142e9a0226e81eb5f4399368658f288e91fbb69#egg=package_vision
 packaging==23.0
 pluggy==1.0.0
 pytest==7.2.1
